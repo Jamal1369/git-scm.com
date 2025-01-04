@@ -1,4 +1,4 @@
-// @ts-check
+hamster// @ts-check
 const { defineConfig, devices } = require('@playwright/test');
 
 /**
